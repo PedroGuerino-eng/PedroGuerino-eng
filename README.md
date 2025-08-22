@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Pedro Guerino  
 
-<!--
-**PedroGuerino-eng/PedroGuerino-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia da Computação**  
+💻 Apaixonado por **programação, tecnologia e resolução de problemas**  
+📚 Atualmente estudando **Python, JavaScript, React, PHP e SQL**  
+🚀 Construindo projetos para meu portfólio aqui no GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologias que utilizo
+- **Linguagens:** Python, JavaScript, PHP, SQL  
+- **Frameworks e libs:** React, Node.js  
+- **Ferramentas:** Git, VS Code, MySQL  
+
+---
+
+### 📂 Projetos em andamento
+➡️ *Clima Fácil* – Consulta previsão do tempo via API (Python)  
+➡️ *Busca Filmes* – Catálogo de filmes usando API do TMDB (JavaScript)  
+➡️ *Dashboard Financeira* – Painel de controle em React  
+➡️ *CRUD de Alunos* – Sistema em PHP + MySQL  
+
+---
+
+### 🌎 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/pedro-guerino-a991a5265/)  
+- Email: foxphg@gmail.com  
+
+---
+⭐ Sempre aprendendo e compartilhando conhecimento!
