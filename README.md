@@ -1,13 +1,14 @@
 # 👋 Olá, eu sou o Pedro Henrique
 
-🎓 Estudante de Engenharia da Computação | 💻 Apaixonado por Programação e Sistemas
+🎓 Estudante de Engenharia da Computação | 💻 Focado em Programação, Sistemas e Desenvolvimento Fullstack  
 
 ---
 
 ## 🚀 Sobre mim
 - 🔭 Atualmente desenvolvendo projetos em **Python, SQL e JavaScript**  
 - 🌱 Estudando **React, APIs e desenvolvimento fullstack**  
-- 🎯 Foco em **Engenharia da Computação, Programação e Desenvolvimento de Sistemas**  
+- 🎯 Interesse em **Engenharia da Computação, Programação e Desenvolvimento de Sistemas**  
+- 🤝 Aberto a colaborações em projetos de tecnologia  
 
 ---
 
@@ -31,17 +32,18 @@
 ---
 
 ## 📌 Projetos em destaque
-- [🔢 Calculadora em Python](#) – Projeto simples usando Tkinter  
-- [🌤️ Consulta de Clima](#) – API para previsão do tempo  
-- [📊 Sistema de Controle Financeiro](#) – Automação e relatórios inteligentes  
-- [🖥️ Aplicação Web de Gestão](#) – Projeto em React + Node.js  
+- [🔢 **Calculadora em Python**](https://github.com/PedroGuerino-eng/clima-facil) – Projeto simples usando Tkinter  
+- [🌤️ **Consulta de Clima**](#) – API para previsão do tempo em Python  
+- [📊 **Sistema de Controle Financeiro**](#) – Automação de relatórios inteligentes  
+- [🖥️ **Aplicação Web de Gestão**](#) – Projeto em React + Node.js  
 
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-guerino-eng/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-guerino-eng/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
 
 ✨ Sempre buscando evoluir e aprender novas tecnologias!
+
