@@ -32,8 +32,8 @@
 ---
 
 ## 📌 Projetos em destaque
-- [🔢 **Calculadora em Python**](https://github.com/PedroGuerino-eng/clima-facil) – Projeto simples usando Tkinter  
-- [🌤️ **Consulta de Clima**](#) – API para previsão do tempo em Python  
+- [🔢 **Calculadora em Python**](#) – Projeto simples usando Tkinter  
+- [🌤️ **Consulta de Clima**](https://github.com/PedroGuerino-eng/clima-facil) – API para previsão do tempo em Python  
 - [📊 **Sistema de Controle Financeiro**](#) – Automação de relatórios inteligentes  
 - [🖥️ **Aplicação Web de Gestão**](#) – Projeto em React + Node.js  
 
