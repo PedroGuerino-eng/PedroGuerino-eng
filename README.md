@@ -37,7 +37,7 @@
 - [🔢 **Calculadora em Python**](https://github.com/PedroGuerino-eng/calculadora-python) – Projeto simples usando Tkinter
 - [🌤️ **Consulta de Clima**](https://github.com/PedroGuerino-eng/clima-facil) – Aplicação web para previsão do tempo usando Python, HTML e CSS
 - [📊 **Sistema de Controle Financeiro**](https://github.com/PedroGuerino-eng/controle-financeiro) – Automação de relatórios inteligentes
-- [🖥️ **Aplicação Web de Gestão**](#) – Sistema em Flask + SQLite + AdminLTE com dashboard interativo e CRUD completo.
+- 📈 [**Sistema de Gestão Comercial**](https://github.com/PedroGuerino-eng/sistema-de-gestao) – Aplicação web completa em Flask com dashboard interativo, relatórios e CRUD para clientes, produtos e vendas.
 
 ---
 
