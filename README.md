@@ -38,6 +38,7 @@
 - [🌤️ **Consulta de Clima**](https://github.com/PedroGuerino-eng/clima-facil) – Aplicação web para previsão do tempo usando Python, HTML e CSS
 - [📊 **Sistema de Controle Financeiro**](https://github.com/PedroGuerino-eng/controle-financeiro) – Automação de relatórios inteligentes
 - 📈 [**Sistema de Gestão Comercial**](https://github.com/PedroGuerino-eng/sistema-de-gestao) – Aplicação web completa em Flask com dashboard interativo, relatórios e CRUD para clientes, produtos e vendas.
+-   **[E-commerce com React](https://github.com/PedroGuerino-eng/e-commerce-react)** - Loja virtual completa construída com React, Context API, Roteamento e Material UI.
 
 ---
 
