@@ -27,9 +27,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGuerino-eng&show_icons=true&theme=radical&cache_bust=20250903)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGuerino-eng&show_icons=true&theme=radical&cache_bust=20250904)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuerino-eng&layout=compact&theme=radical&cache_bust=20250903)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuerino-eng&layout=compact&theme=radical&cache_bust=20250904)
 
 ---
 
